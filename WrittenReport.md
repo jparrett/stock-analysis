@@ -2,7 +2,7 @@
 ## Overview of Project
 The purpose of this project is to refractor previous code to be able to have the code run more efficiently.   This is done because the client, Steve, will be expanding the current dataset to include the entire stock market.    Without the refractorization of the code, the larger dataset would take an extremely long time to execute.    
 
-## Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
+## Results: 
 
 By refractoring the code, the code was able to execute in significantly faster.  
 
