@@ -6,7 +6,7 @@ The purpose of this project is to refractor previous code to be able to have the
 
 By refractoring the code, the code was able to execute significantly faster.  
 
--2017:  Original code ran in:  1.1799 seconds and the refractored code ran in:  .1953 seconds
+*2017:  Original code ran in:  1.1799 seconds and the refractored code ran in:  .1953 seconds
 
 ![VBA_Original_2017.png](/Resources/VBA_Original_2017.png)
 [VBA_Original_2017.png](/Resources/VBA_Original_2017.png)
