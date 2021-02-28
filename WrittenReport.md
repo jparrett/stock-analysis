@@ -4,7 +4,7 @@ The purpose of this project is to refractor previous code to be able to have the
 
 ## Results: 
 
-By refractoring the code, the code was able to execute in significantly faster.  
+By refractoring the code, the code was able to execute significantly faster.  
 
 -2017:  Original code ran in:  1.1799 seconds and the refractored code ran in:  .1953 seconds
 
