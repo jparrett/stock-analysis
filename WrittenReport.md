@@ -1,6 +1,6 @@
 # Stock Analysis
 ## Overview of Project
-The purpose of this project is to refractor previous code to be able to have the code run more efficiently.   This is done because the client, Steve, will be expanding the current dataset to include the entire stock market.    Without the refractorization of the code, the larger dataset would take an extremly long time to execute.    
+The purpose of this project is to refractor previous code to be able to have the code run more efficiently.   This is done because the client, Steve, will be expanding the current dataset to include the entire stock market.    Without the refractorization of the code, the larger dataset would take an extremely long time to execute.    
 
 ## Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 
@@ -23,10 +23,10 @@ By refractoring the code, the code was able to execute in significantly faster.
 [VBA_Challenge_2018.png](/Resources/VBA_Challenge_2018.png)
 
 The original code consisted of nexted for statements to run through the data.    
-![Originalcode.png](/Resources/Originalcode.png)
+![OriginalCode.png](/Resources/OriginalCode.png)
 
-For the refractored code, a stock ticker index array was complied.    This led to a clearner and more efficient run of the data.
-![Refractorcode.png](/Resources/Refractorcode.png)
+For the refractored code, a stock ticker index array was complied.    This led to a cleaner and more efficient run of the data.
+![RefractorCode.png](/Resources/RefractorCode.png)
 
 
 
@@ -34,7 +34,7 @@ For the refractored code, a stock ticker index array was complied.    This led t
 ## Summary: 
 -What are the advantages or disadvantages of refactoring code?
 The advantages of refractoring code is that the code is more efficient and written cleaner.
-The disadvantes of refractoring code is that the code can be more complicated to read and more notes are necessary to document the steps.
+The disadvantages of refractoring code is that the code can be more complicated to read and more notes are necessary to document the steps.
 
 -How do these pros and cons apply to refactoring the original VBA script?
 The refractored code was significantly quicker at processing the data.   The ability to write an array based on the ticker index variable was harder to understand and took more time to write.    
