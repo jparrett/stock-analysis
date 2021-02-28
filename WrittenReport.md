@@ -11,7 +11,7 @@ By refractoring the code, the code was able to execute significantly faster.
   ![VBA_Original_2017.png | width=300](/Resources/VBA_Original_2017.png)
   [VBA_Original_2017.png](/Resources/VBA_Original_2017.png)
 
-  ![VBA_Challenge_2017.png | width=300](/Resources/VBA_Challenge_2017.png)
+  ![VBA_Challenge_2017.png?s=300](/Resources/VBA_Challenge_2017.png)
   [VBA_Challenge_2017.png](/Resources/VBA_Challenge_2017.png)
 
 
