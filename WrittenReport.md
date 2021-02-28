@@ -6,18 +6,18 @@ The purpose of this project is to refractor previous code to be able to have the
 
 By refractoring the code, the code was able to execute significantly faster.  
 
-- 2017:  Original code ran in:  1.1797 seconds and the refractored code ran in:  0.1953 seconds.
+### 2017:  Original code ran in:  1.1797 seconds and the refractored code ran in:  0.1953 seconds.
   <img src="/Resources/VBA_Original_2017.png" width="600"> [VBA_Original_2017.png](/Resources/VBA_Original_2017.png)
   
   <img src="/Resources/VBA_Challenge_2017.png" width="600"> [VBA_Challenge_2017.png](/Resources/VBA_Challenge_2017.png)
 
 
-- 2018:  Original code ran in:  1.1875 seconds and the refractored code ran in:  0.2227 seconds.
+### 2018:  Original code ran in:  1.1875 seconds and the refractored code ran in:  0.2227 seconds.
   <img src="/Resources/VBA_Original_2018.png" width="600"> [VBA_Original_2018.png](/Resources/VBA_Original_2018.png)
   
   <img src="/Resources/VBA_Challenge_2018.png" width="600"> [VBA_Challenge_2018.png](/Resources/VBA_Challenge_2018.png)
 
-
+### Comparison of the Code
 - The original code consisted of nested `for` statements to run through the data. 
   <img src="/Resources/OriginalCode.png" width="600"> [OriginalCode.png](/Resources/OriginalCode.png)   
 
