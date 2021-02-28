@@ -1,4 +1,4 @@
-# stock-analysis for 2017 & 2018
+# Stock Analysis
 ## Overview of Project
 The purpose of this project is to refractor previous code to be able to have the code run more efficiently.   This is done because the client, Steve, will be expanding the current dataset to include the entire stock market.    Without the refractorization of the code, the larger dataset would take an extremly long time to execute.    
 
