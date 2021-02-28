@@ -8,7 +8,7 @@ By refractoring the code, the code was able to execute significantly faster.
 
 - 2017:  Original code ran in:  1.1797 seconds and the refractored code ran in:  0.1953 seconds.
 
-  ![VBA_Original_2017.png](/Resources/VBA_Original_2017.png)
+  ![VBA_Original_2017.png | width=300](/Resources/VBA_Original_2017.png)
   [VBA_Original_2017.png](/Resources/VBA_Original_2017.png)
 
   ![VBA_Challenge_2017.png](/Resources/VBA_Challenge_2017.png)
