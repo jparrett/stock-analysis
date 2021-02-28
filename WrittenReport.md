@@ -22,7 +22,11 @@ By refractoring the code, the code was able to execute in significantly faster.
 ![VBA_Challenge_2018.png](/Resources/VBA_Challenge_2018.png)
 [VBA_Challenge_2018.png](/Resources/VBA_Challenge_2018.png)
 
-The original code consisted of nexted for statements to run through the data.    For the refractored code, a stock ticker index array was complied.    This led to a clearner and more efficient run of the data.
+The original code consisted of nexted for statements to run through the data.    
+![Originalcode.png](/Resources/Originalcode.png)
+
+For the refractored code, a stock ticker index array was complied.    This led to a clearner and more efficient run of the data.
+![Refractorcode.png](/Resources/Refractorcode.png)
 
 
 
