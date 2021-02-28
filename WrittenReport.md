@@ -6,7 +6,7 @@ The purpose of this project is to refractor previous code to be able to have the
 
 By refractoring the code, the code was able to execute significantly faster.  
 
-- 2017:  Original code ran in:  1.1799 seconds and the refractored code ran in:  .1953 seconds
+- 2017:  Original code ran in:  1.1799 seconds and the refractored code ran in:  0.1953 seconds
 
   ![VBA_Original_2017.png](/Resources/VBA_Original_2017.png)
   [VBA_Original_2017.png](/Resources/VBA_Original_2017.png)
@@ -14,7 +14,7 @@ By refractoring the code, the code was able to execute significantly faster.
   ![VBA_Challenge_2017.png](/Resources/VBA_Challenge_2017.png)
   [VBA_Challenge_2017.png](/Resources/VBA_Challenge_2017.png)
 
-- 2018:  Original code ran in:  1.1796 seconds and the refractored code ran in:  .2227 seconds
+- 2018:  Original code ran in:  1.1796 seconds and the refractored code ran in:  0.2227 seconds
 
   ![VBA_Original_2018.png](/Resources/VBA_Original_2018.png)
   [VBA_Original_2018.png](/Resources/VBA_Original_2018.png)
